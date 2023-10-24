@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "React js",
+      "author": "RA"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "userId": 1
+    },
+    {
+      "id": 1,
+      "body": "body",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "cnchuong",
+      "age": 18,
+      "image": "https://i.ex-cdn.com/mgn.vn/files/content/2023/01/30/pain-thuc-chat-chi-la-cai-xac-duoc-nagato-dieu-khien-1424.jpg"
+    },
+    {
+      "id": 2,
+      "name": "ndchinh",
+      "age": 18,
+      "image": "https://i.ex-cdn.com/mgn.vn/files/content/2023/01/30/pain-thuc-chat-chi-la-cai-xac-duoc-nagato-dieu-khien-1424.jpg"
+    }
+  ],
+  "login": [
+    {
+      "username": "abc",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "abc",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
