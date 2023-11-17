@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "React js",
+      "author": "RA"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "userId": 1
+    },
+    {
+      "id": 1,
+      "body": "body",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "cnchuong",
+      "age": 18,
+      "image": "https://static.gamehub.vn/img/files/2023/01/15/gamehubvn-top-phim-hoat-hinh-trung-quoc-cho-ban-cay-ngay-tet-nay.jpg"
+    }
+  ]
+}

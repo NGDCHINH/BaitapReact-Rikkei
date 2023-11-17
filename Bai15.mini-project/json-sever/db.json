@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe  - admin",
+      "age": 19,
+      "username":"user1",
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "avt": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/de8arov-83403f07-60a9-45f0-bde3-cfbcd8fbfce1.png/v1/fit/w_828,h_1050/tobirama__edo_tensei__render__naruto_mobile__by_maxiuchiha22_de8arov-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGU4YXJvdi04MzQwM2YwNy02MGE5LTQ1ZjAtYmRlMy1jZmJjZDhmYmZjZTEucG5nIiwid2lkdGgiOiI8PTg5MiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Lwg00vJtXp9jPaKB9P8ihl2BkTLgh-wauidkXXJHlxE"
+    },
+    {
+      "id": 2,
+      "name": "John Doe - user",
+      "age": 19,
+      "username":"user2",
+      "email": "user2@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "avt": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddob27q-61e1f67c-fef7-47db-bc25-2acc771ce2ae.png/v1/fill/w_151,h_350/itachi__itachi_s_death__render__naruto_mobile__by_maxiuchiha22_ddob27q-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODM5IiwicGF0aCI6IlwvZlwvODRkYzEzYjctYTJlNy00YjQ1LTgzZWMtMzExZTcyZTgyOTAwXC9kZG9iMjdxLTYxZTFmNjdjLWZlZjctNDdkYi1iYzI1LTJhY2M3NzFjZTJhZS5wbmciLCJ3aWR0aCI6Ijw9MzYyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QX1xUSXLOHcF7oG5z6MQDatOVnLhS5qsbEI2ufr36n4"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Cam",
+      "price": 5000,
+      "img": "https://dt-pro.vn/upload/product/cam-my.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Quyt",
+      "price": 2000,
+      "img": "https://vnmedia.vn/file/8a10a0d36ccebc89016ce0c6fa3e1b83/112022/16-06-2022_11_41_22_sau-sinh-an-quyt-duoc-khong_20221130141644.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chanh",
+      "price": 1000,
+      "img": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/https://cms-prod.s3-sgn09.fptcloud.com/1_qua_chanh_chua_bao_nhieu_vitamin_c_1_febb7ef861.png"
+    }
+  ]
+}
